@@ -1,4 +1,4 @@
-#  Simple Calculator
+#  Basic Calculator
 
 Develop: https://calculator-rose-eight.vercel.app/
 
